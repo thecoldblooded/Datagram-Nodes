@@ -26,7 +26,7 @@
      ```
   2. Change `YOUR_API_KEY` in Wallet Licenses after Done you can Detached press `CTRL+A+D`
      ```
-     ./datagram-cli run -- -key YOUR_API_KEY
+     ./datagram-cli-x86_64-linux run -- -key YOUR_API_KEY
      ```
   3. To see your screen
      ```
