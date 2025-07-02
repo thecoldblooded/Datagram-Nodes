@@ -1,13 +1,13 @@
 # <h2 align=center> Datagram Nodes CLI </h2>
 
-- Buy VPS di : [t.me/skuycloud](t.me/skuycloud)
+- Buy VPS : [Skuy Vibes](https://t.me/skuyvibes/156) `<---`
 - Trakteer buy Kopi : https://trakteer.id/brrrskuy/tip `<---`
 
 ## First Register Datagram Network ##
   1. Register use email : [https://dashboard.datagram.network](https://dashboard.datagram.network?ref=116112446) 
   2. Copy your Keys in `Wallet Licenses`
 --------------------------------------------------
-## Create Folder Datagram ##
+### Create Folder Datagram
   1. Create Folder Datagram
 
     
@@ -19,7 +19,7 @@
     
     wget https://github.com/Datagram-Group/datagram-cli-release/releases/latest/download/datagram-cli-x86_64-linux && chmod +x datagram-cli-x86_64-linux
     
-## Running Datagram CLI ##
+### Running Datagram CLI
   1. Create Screen
      ```
      screen -S datagram
@@ -33,3 +33,14 @@
      screen -r datagram
      ```
 -------------------------------------
+## Screen Command
+
+Detached Screen press `CTRL+A+D`
+
+See Screen `screen -r datagram`
+
+----------------------------------------------------------
+## Join Telegram Channel🚀
+For Updates, Questions and other Guides Join the Community :
+
+[Skuy Vibes](https://t.me/skuyvibes) or [Airdrop Family IDN](https://t.me/AirdropFamilyIDN)
